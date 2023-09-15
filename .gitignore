@@ -1,0 +1,17 @@
+*.exe
+main.exe
+main
+.env
+.DS_Store
+__debug_bin
+# ignore python cache
+__pycache__
+__debug_bin.exe
+localizations/
+# ignore all files containing the word "__debug_"
+__debug_*
+
+.vscode/
+main.go4
+vquality
+vquality.exe
